@@ -1,3 +1,4 @@
 # Yenile-Ya-Da-Sat
 Back end'in tamamı bana ait olan proje Yenile Ya Da Sat yakında sizlerle.
-![image](https://user-images.githubusercontent.com/102467407/212887761-86c86368-a536-43fd-894d-be1f7bb90c4a.png)
+![image](https://user-images.githubusercontent.com/102467407/212888062-29256e5e-6b48-4536-b6fa-9830cf48402c.png)
+
